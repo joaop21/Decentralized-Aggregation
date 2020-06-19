@@ -1,4 +1,4 @@
-# LargeScaleDistributedSystems
+# Decentralized-Aggregation PUSH-SUM Algorithm
 
 Large Scale Distributed Systems Project.
 
